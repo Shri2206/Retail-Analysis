@@ -1,2 +1,2 @@
 # Retail-Analysis
-Data visualization using Powrer BI
+Data visualization using Power BI
